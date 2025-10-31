@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=1000&color=B400FF,FF00FF&center=true&vCenter=true&width=700&lines=Abdallah+Elshahawy;Machine+Learning+Engineer;AI+Developer+%26+Data+Analyst;Transforming+Data+into+Intelligence" alt="Name Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=1000&color=BF00FF&center=true&vCenter=true&width=700&lines=Abdallah+Elshahawy;Machine+Learning+Engineer;AI+Developer+%26+Data+Analyst;Transforming+Data+into+Intelligence" alt="Neon Purple Name Animation">
 </h1>
 
 <p align="center">
@@ -70,7 +70,7 @@ Visualizing customer patterns and behaviors.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahelshahawy&bg_color=0D1117&color=B400FF&line=FF00FF&point=FFFFFF&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahelshahawy&bg_color=0D1117&color=BF00FF&line=BF00FF&point=FFFFFF&area=true" alt="Contribution Graph">
 </p>
 
 ---
@@ -81,7 +81,7 @@ Visualizing customer patterns and behaviors.
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eng.abdallahelshahawy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email%20Me-B400FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email%20Me-BF00FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://github.com/abdallahelshahawy" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
@@ -90,7 +90,7 @@ Visualizing customer patterns and behaviors.
 
 ---
 
-<h3 align="center" style="color:#B400FF;">“Transforming Data into Intelligent Decisions”</h3>
+<h3 align="center" style="color:#BF00FF;">“Transforming Data into Intelligent Decisions”</h3>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="90" alt="3D Robot Icon">
