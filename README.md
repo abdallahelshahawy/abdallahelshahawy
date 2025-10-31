@@ -1,135 +1,98 @@
-<!DOCTYPE html>
-<html lang="ar">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Abdallah Elshahawey</title>
-  <style>
-    body {
-      font-family: "Poppins", sans-serif;
-      background: radial-gradient(circle at center, #0a0a0f, #000);
-      color: #fff;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      overflow: hidden;
-    }
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=1000&color=B400FF,FF00FF&center=true&vCenter=true&width=700&lines=Abdallah+Elshahawy;Machine+Learning+Engineer;AI+Developer+%26+Data+Analyst;Transforming+Data+into+Intelligence" alt="Name Animation">
+</h1>
 
-    h1 {
-      font-size: 3.5rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      color: #b400ff;
-      text-shadow: 0 0 10px #b400ff, 0 0 20px #b400ff, 0 0 40px #b400ff;
-      position: relative;
-      animation: neonPulse 2s infinite alternate, heartbeatSync 2s infinite ease-in-out;
-    }
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="400" alt="Heartbeat Line Animation">
+</p>
 
-    @keyframes neonPulse {
-      from {
-        text-shadow: 0 0 10px #b400ff, 0 0 20px #b400ff, 0 0 40px #b400ff;
-      }
-      to {
-        text-shadow: 0 0 20px #ff00ff, 0 0 40px #b400ff, 0 0 80px #b400ff;
-      }
-    }
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2054184/screenshots/6019682/data_analysis.gif" width="460" alt="Data Analysis Animation">
+</p>
 
-    @keyframes heartbeatSync {
-      0%, 100% { transform: scale(1); }
-      25% { transform: scale(1.05); }
-      50% { transform: scale(1); }
-      75% { transform: scale(1.07); }
-    }
+---
 
-    .heartbeat-line {
-      width: 180px;
-      height: 2px;
-      background: linear-gradient(90deg, transparent, #b400ff, transparent);
-      position: relative;
-      margin-top: 10px;
-      overflow: hidden;
-    }
+### 🧠 About Me  
+🎓 **Graduate from Delta University for Science & Technology – Faculty of Artificial Intelligence**  
+💡 **Machine Learning Engineer** & **Data Analyst** passionate about transforming data into intelligent systems.  
+⚙️ Skilled in **Machine Learning**, **Data Visualization**, and **Automation**.  
+🌍 Continuously learning and building AI-driven solutions.  
+💬 Ask me about **ML Models**, **Data Analysis**, or **AI Applications**.
 
-    .heartbeat-line::before {
-      content: "";
-      position: absolute;
-      left: 0;
-      top: -10px;
-      width: 100%;
-      height: 20px;
-      background: transparent;
-      border-left: 2px solid #b400ff;
-      border-right: 2px solid transparent;
-      transform: translateX(-100%);
-      animation: heartbeat 2s infinite linear;
-    }
+---
 
-    @keyframes heartbeat {
-      0%, 100% {
-        transform: translateX(-100%);
-      }
-      25% {
-        transform: translateX(10%);
-        border-color: #ff00ff;
-      }
-      50% {
-        transform: translateX(50%);
-        border-color: #b400ff;
-      }
-      75% {
-        transform: translateX(110%);
-        border-color: #ff00ff;
-      }
-    }
+### 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,github,vscode,jupyter,anaconda,git,linux" />
+</p>
 
-    .contact {
-      margin-top: 40px;
-      font-size: 1.1rem;
-    }
+**Core Skills:**  
+- Machine Learning | Scikit-learn | Model Optimization  
+- Data Analysis | Pandas | NumPy | Matplotlib | Seaborn  
+- Automation & Deployment | Docker | GitHub Actions  
+- Tools: **Google Colab**, **VS Code**, **Jupyter**, **Anaconda**
 
-    .contact a {
-      color: #b400ff;
-      text-decoration: none;
-      border-bottom: 1px dashed #b400ff;
-      transition: all 0.3s ease;
-    }
+---
 
-    .contact a:hover {
-      color: #ff00ff;
-      border-bottom-color: #ff00ff;
-      text-shadow: 0 0 10px #ff00ff;
-    }
+### 🚀 Featured Projects  
+#### 🏪 **Big Mart Sales Prediction (ML Project)**  
+Predicting sales using regression and feature engineering.  
+🛠 Tools: `Python`, `Scikit-learn`, `Pandas`, `Matplotlib`
 
-    .robot {
-      position: absolute;
-      bottom: 40px;
-      width: 100px;
-      animation: floatRobot 3s ease-in-out infinite;
-    }
+#### 📧 **Spam Mail Detection using Machine Learning**  
+Classifying emails using **TF-IDF + Naive Bayes**.  
+📈 Tools: `Python`, `Scikit-learn`
 
-    @keyframes floatRobot {
-      0%, 100% {
-        transform: translateY(0);
-      }
-      50% {
-        transform: translateY(-10px);
-      }
-    }
-  </style>
-</head>
-<body>
-  <h1>Abdallah Elshahawey</h1>
-  <div class="heartbeat-line"></div>
+#### 📉 **Customer Data Analysis Project**  
+Visualizing customer patterns and behaviors.  
+📚 Tools: `Python`, `Seaborn`, `Pandas`, `Matplotlib`
 
-  <div class="contact">
-    📧 <a href="mailto:abdallahelshahawey@gmail.com">abdallahelshahawey@gmail.com</a>
-  </div>
+…and many more ML and AI-focused projects 🚀  
 
-  <img class="robot" src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" alt="3D Robot">
-</body>
-</html>
+---
+
+### 🧬 Artificial Intelligence Universe
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/4004116/ai.gif" width="420" alt="AI Algorithms Animation">
+</p>
+
+<p align="center">
+  <b>Keywords:</b><br>
+  Neural Networks • Deep Learning • Predictive Analytics • Automation • Data Science • AI Innovation
+</p>
+
+---
+
+### ⚡ GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahelshahawy&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahelshahawy&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahelshahawy&bg_color=0D1117&color=B400FF&line=FF00FF&point=FFFFFF&area=true" alt="Contribution Graph">
+</p>
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdallahelshahawey" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eng.abdallahelshahawy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-B400FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/abdallahelshahawy" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h3 align="center" style="color:#B400FF;">“Transforming Data into Intelligent Decisions”</h3>
+
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712027.png" width="90" alt="3D Robot Icon">
+</p>
 ```
