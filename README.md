@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=1000&color=8A2BE2,00FFFF&center=true&vCenter=true&width=700&lines=Abdallah+Elshahawy;Machine+Learning+Engineer;AI+Developer+%26+Data+Analyst;Transforming+Data+into+Intelligence" alt="Neon Name Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=1000&color=9B30FF,00E5FF&center=true&vCenter=true&width=700&lines=Abdallah+Elshahawy;Machine+Learning+Engineer;AI+Developer+%26+Data+Analyst;Transforming+Data+into+Intelligence" alt="Name Animation">
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="350" alt="Zigzag Graph Animation">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="400" alt="Heartbeat Line Animation">
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ Visualizing customer patterns and behaviors.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahelshahawy&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahelshahawy&bg_color=0D1117&color=9B30FF&line=00E5FF&point=FFFFFF&area=true" alt="Contribution Graph">
 </p>
 
 ---
@@ -80,8 +80,8 @@ Visualizing customer patterns and behaviors.
   <a href="https://www.linkedin.com/in/abdallahelshahawey" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:eng.abdallahelshahawy@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:eng.abdallahelshahawy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-9B30FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://github.com/abdallahelshahawy" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
@@ -90,5 +90,5 @@ Visualizing customer patterns and behaviors.
 
 ---
 
-<h3 align="center" style="color:#8A2BE2;">“Transforming Data into Intelligent Decisions”</h3>
+<h3 align="center" style="color:#9B30FF;">“Transforming Data into Intelligent Decisions”</h3>
 ```
