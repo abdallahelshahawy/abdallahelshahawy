@@ -1,5 +1,3 @@
-```{"variant":"standard","title":"Final Animated GitHub README – Abdallah Elshahawy (Full Copy)","id":"90321"}
-<!-- 🔥 Animated & Professional GitHub README for Abdallah Elshahawy -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Abdallah+Elshahawy!;🤖+Machine+Learning+Engineer;📊+Data+Analyst+%26+AI+Developer;🚀+Turning+Data+Into+Intelligence!" alt="Typing Animation">
