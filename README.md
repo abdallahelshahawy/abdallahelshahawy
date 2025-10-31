@@ -1,10 +1,9 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Abdallah+Elshahawy!;🤖+Machine+Learning+Engineer;📊+Data+Analyst+%26+AI+Developer;🚀+Turning+Data+Into+Intelligence!" alt="Typing Animation">
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hjdTdjcGhpNjZpOW1ndml6dzlmNnBjdWlsZnh5Ym83Y2s1aTdqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="380" alt="AI Animation Brain">
+  <img src="https://cdn.dribbble.com/users/2054184/screenshots/6019682/data_analysis.gif" width="450" alt="Data Analysis Animation">
 </p>
 
 ---
@@ -12,9 +11,9 @@
 ### 🧠 About Me  
 🎓 **Graduate from Delta University for Science & Technology – Faculty of Artificial Intelligence**  
 💡 **Machine Learning Engineer** & **Data Analyst** passionate about transforming data into intelligent systems.  
-⚙️ Experienced with **Python**, **ML Models**, and **Data Visualization**.  
-🌍 Always exploring new AI trends and automation workflows.  
-💬 Ask me about **Machine Learning**, **Data Analysis**, or **AI Model Building**.
+⚙️ Skilled in **Machine Learning**, **Data Visualization**, and **Automation**.  
+🌍 Continuously learning and building AI-driven solutions.  
+💬 Ask me about **ML Models**, **Data Analysis**, or **AI Applications**.
 
 ---
 
@@ -33,15 +32,15 @@
 
 ### 🚀 Featured Projects  
 #### 🏪 **Big Mart Sales Prediction (ML Project)**  
-🧠 Predicting sales using regression, feature engineering & evaluation.  
+🧠 Predicting sales using regression and feature engineering.  
 🛠 Tools: `Python`, `Scikit-learn`, `Pandas`, `Matplotlib`
 
 #### 📧 **Spam Mail Detection using Machine Learning**  
-⚙️ Building a text classifier using **TF-IDF** and **Naive Bayes**.  
+⚙️ Classifying emails using **TF-IDF + Naive Bayes**.  
 📈 Tools: `Python`, `Scikit-learn`
 
 #### 📉 **Customer Data Analysis Project**  
-📊 Analyzing and visualizing customer behavior and patterns.  
+📊 Visualizing customer patterns and behaviors.  
 📚 Tools: `Python`, `Seaborn`, `Pandas`, `Matplotlib`
 
 …and many more ML and AI-focused projects 🚀  
@@ -50,7 +49,7 @@
 
 ### 🧬 Artificial Intelligence Universe
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="AI Developer Animation">
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/4004116/ai.gif" width="420" alt="AI Algorithms Animation">
 </p>
 
 <p align="center">
@@ -62,12 +61,12 @@
 
 ### ⚡ GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahelshahawey&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahelshahawey&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahelshahawy&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahelshahawy&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahelshahawey&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahelshahawy&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true" alt="Contribution Graph">
 </p>
 
 ---
@@ -77,20 +76,15 @@
   <a href="https://www.linkedin.com/in/abdallahelshahawey" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:abdallahelshahawey@gmail.com">
+  <a href="mailto:eng.abdallahelshahawy@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/abdallahelshahawey" target="_blank">
+  <a href="https://github.com/abdallahelshahawy" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZyZHFtdGF4dWZqaWc1YnhkcHR2OHZkY2I0OTd5Z2htYzA5Y3Z2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="450" alt="Coding Animation">
-</p>
-
 <h3 align="center">💡 “Transforming Data into Intelligent Decisions” 💡</h3>
 ```
-
