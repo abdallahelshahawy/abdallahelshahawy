@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Abdallah+Elshahawy;Machine+Learning+Engineer;AI+Developer+%26+Data+Analyst;Transforming+Data+into+Intelligence" alt="Neon Name Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Abdallah+Elshahawy" alt="Neon Name Animation">
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/6746067/robot_ai.gif" width="85" alt="Minimal AI Robot">
 </h1>
 
 <p align="center">
