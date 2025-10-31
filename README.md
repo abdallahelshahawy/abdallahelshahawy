@@ -1,7 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Abdallah+Elshahawy" alt="Neon Name Animation">
-  <img src="https://cdn.dribbble.com/users/720825/screenshots/6746067/robot_ai.gif" width="85" alt="Minimal AI Robot">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=3000&pause=1000&color=8A2BE2,00FFFF&center=true&vCenter=true&width=700&lines=Abdallah+Elshahawy;Machine+Learning+Engineer;AI+Developer+%26+Data+Analyst;Transforming+Data+into+Intelligence" alt="Neon Name Animation">
 </h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="350" alt="Zigzag Graph Animation">
+</p>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2054184/screenshots/6019682/data_analysis.gif" width="460" alt="Data Analysis Animation">
@@ -78,7 +81,7 @@ Visualizing customer patterns and behaviors.
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:eng.abdallahelshahawy@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-00FFFF?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/abdallahelshahawy" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
@@ -87,5 +90,5 @@ Visualizing customer patterns and behaviors.
 
 ---
 
-<h3 align="center" style="color:#00FFFF;">“Transforming Data into Intelligent Decisions”</h3>
+<h3 align="center" style="color:#8A2BE2;">“Transforming Data into Intelligent Decisions”</h3>
 ```
