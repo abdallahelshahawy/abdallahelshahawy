@@ -1,90 +1,73 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Abdallah+Elshahawy!;🤖+Machine+Learning+Engineer;📊+Data+Analyst+%26+AI+Developer;🚀+Turning+Data+Into+Intelligence!" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=%F0%9F%94%AB+Abdallah+Elshahawey+%F0%9F%94%AB;AI+Engineer+%7C+Data+Visionary;Automation+Architect+%7C+Creative+Mind" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/2054184/screenshots/6019682/data_analysis.gif" width="450" alt="Data Analysis Animation">
+  <img src="https://cdn.dribbble.com/users/720825/screenshots/4310183/ai_animation.gif" width="480" alt="AI Data Animation">
 </p>
 
 ---
 
-### 🧠 About Me  
-🎓 **Graduate from Delta University for Science & Technology – Faculty of Artificial Intelligence**  
-💡 **Machine Learning Engineer** & **Data Analyst** passionate about transforming data into intelligent systems.  
-⚙️ Skilled in **Machine Learning**, **Data Visualization**, and **Automation**.  
-🌍 Continuously learning and building AI-driven solutions.  
-💬 Ask me about **ML Models**, **Data Analysis**, or **AI Applications**.
+### 👨‍💻 About Me  
+I'm **Abdallah Elshahawey**, a passionate **AI Engineer & Data Innovator** who transforms ideas into intelligent, automated systems.  
+I combine **machine learning**, **data analysis**, and **creative automation** to deliver results that matter.
+
+---
+
+### 🧠 What I Do
+- 🤖 Build AI-driven automations and smart assistants  
+- 📊 Analyze and visualize data for actionable insights  
+- 🧩 Design and deploy ML/NLP models  
+- ⚙️ Engineer advanced n8n workflows  
+- 🌐 Integrate systems into powerful, autonomous platforms  
+
+---
+
+### 🚀 Current Focus
+- Developing **Spyglass AI** → a Telegram bot that monitors competitors and generates instant insights using GPT.  
+- Experimenting with **AI-powered workflow orchestration**.
 
 ---
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,github,vscode,jupyter,anaconda,git,linux" />
-</p>
-
-**Core Skills:**  
-- 🤖 Machine Learning | Scikit-learn | Model Optimization  
-- 📊 Data Analysis | Pandas | NumPy | Matplotlib | Seaborn  
-- 🧱 Automation & Deployment | Docker | GitHub Actions  
-- 💻 Tools: **Google Colab**, **VS Code**, **Jupyter**, **Anaconda**
-
----
-
-### 🚀 Featured Projects  
-#### 🏪 **Big Mart Sales Prediction (ML Project)**  
-🧠 Predicting sales using regression and feature engineering.  
-🛠 Tools: `Python`, `Scikit-learn`, `Pandas`, `Matplotlib`
-
-#### 📧 **Spam Mail Detection using Machine Learning**  
-⚙️ Classifying emails using **TF-IDF + Naive Bayes**.  
-📈 Tools: `Python`, `Scikit-learn`
-
-#### 📉 **Customer Data Analysis Project**  
-📊 Visualizing customer patterns and behaviors.  
-📚 Tools: `Python`, `Seaborn`, `Pandas`, `Matplotlib`
-
-…and many more ML and AI-focused projects 🚀  
-
----
-
-### 🧬 Artificial Intelligence Universe
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/720825/screenshots/4004116/ai.gif" width="420" alt="AI Algorithms Animation">
-</p>
-
-<p align="center">
-  <b>Keywords:</b><br>
-  🧠 Neural Networks • 🤖 Deep Learning • 📈 Predictive Analytics • ⚙️ Automation • 🧩 Data Science • 🌐 AI Innovation
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,n8n,fastapi,flask,js,nodejs,html,css,mysql,git,github,docker,vscode" />
 </p>
 
 ---
 
-### ⚡ GitHub Stats & Activity
+### 📈 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahelshahawy&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahelshahawy&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdallahelshahawy&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true" alt="Contribution Graph">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallahelshahawy&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahelshahawy&theme=react&hide_border=true&background=0D1117&fire=00F0FF&currStreakLabel=00F0FF" height="160"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me  
+### 📬 Contact Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdallahelshahawey" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:eng.abdallahelshahawey@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-00C2FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
-  <a href="mailto:eng.abdallahelshahawy@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/abdallahelshahawy" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/abdallahelshahawy">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
   </a>
 </p>
 
 ---
 
-<h3 align="center">💡 “Transforming Data into Intelligent Decisions” 💡</h3>
+<p align="center">
+  <em>“Artificial Intelligence isn’t replacing people — it’s amplifying human creativity.”</em>  
+</p>
+
+---
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3500&pause=800&color=00F0FF&center=true&vCenter=true&width=700&lines=⚡+Crafted+with+Intelligence+by+Abdallah+Elshahawey+⚡" alt="Digital Signature" />
+</h3>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/ai-data.gif" width="400" alt="AI Pulse Animation">
+</p>
 ```
